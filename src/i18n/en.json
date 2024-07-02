@@ -1,0 +1,27 @@
+{
+    "welcome": "Hi🙌, I'm ",
+    "description_1": "I am an independent developer in employment,",
+    "description_2": "and passion is my driving force.",
+
+
+    "Introduction": "Introduction",
+    "Overview": "Overview",
+    "about": "About",
+    "work": "Work",
+    "contact": "Contact",
+
+    "description_details": "I am a software developer proficient in Java and Python, with significant research in Spring and OpenCV. I am passionate about programming and I am always looking for new challenges. I have a strong preference for exploring new technologies and embracing fresh ideas. My technical skills provide not only financial support but also mental strength. It is through innovation and technology that the world's challenges can be solved, and my dreams can be realized.",
+
+    "work_details": "What I have done so far",
+    "Experience": "Work Experience",
+
+    "my_work": "My work",
+    "projects": "Projects",
+    "projects_description": "These projects showcase my skills and experience with real-world examples. Each project description includes links to code repositories and live demos, highlighting my ability to solve complex problems, utilize diverse technologies, and manage projects effectively.",
+
+    "github": "Github Profile",
+    "github_description": "Github profile page, in addition to basic information, showcases a selection of my carefully chosen projects and reflects my personal style through a personalized design.Besides, you can find my open-source projects on GitHub.",
+    "blog": "Blog",
+    "blog_description": "Blog page, which is a collection of my personal experiences, reflections, and insights. It is a reflection of my journey and a testament to my growth as a developer. I hope you enjoy reading it."
+
+  }
